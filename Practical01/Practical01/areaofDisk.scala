@@ -1,0 +1,1 @@
+def areaofDisk(r:Double):Double=math.Pi*r*r
